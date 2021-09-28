@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### [APP DEMO](https://gallant-kirch-910b06.netlify.app)
+### [APP DEMO](https://dp-shapes.netlify.app/)
 
 ## Available Scripts
 
