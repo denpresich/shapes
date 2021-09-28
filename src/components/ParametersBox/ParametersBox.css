@@ -1,0 +1,19 @@
+.parameters-box {
+  width: 250px;
+  padding: 16px;
+  color: #fff;
+  background-color: #535353;
+  border-right: 3px solid #404040;
+}
+
+.transformation-properties {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 5px;
+}
+
+.position-properties {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 5px;
+}

@@ -1,0 +1,8 @@
+.property-input {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+}
+
+.property-input > label {
+  font-size: 14px;
+}
